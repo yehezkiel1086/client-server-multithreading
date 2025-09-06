@@ -1,6 +1,4 @@
-# Network Programming Assignment 2
-
-By: Yehezkiel Wiradhika (5025201086, Network Programming E)
+# Client Server Multithreading
 
 ## Description
 
